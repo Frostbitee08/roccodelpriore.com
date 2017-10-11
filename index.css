@@ -122,7 +122,6 @@ ul.apps {
     clear: both;
   }
 
-
   ul.apps li {
     border-radius: 20px;
     float: left;
@@ -138,6 +137,9 @@ ul.apps {
         }
       }
 
+  ul.apps a {
+    display: block;
+  }
   ul.apps a span {
     display: block;
     width: 100px;
